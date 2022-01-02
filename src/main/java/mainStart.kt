@@ -1,4 +1,4 @@
-import ui.MainForm
+import main.java.MainForm
 
 fun  main() {
     MainForm();
